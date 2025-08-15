@@ -30,6 +30,7 @@ This is a cloud-based ETL pipline that extracts trending public repositories on 
 ├── airflow/          # Airflow DAGs, ETL scripts, utils
 │   ├── dags/
 |   ├── compose.yaml
+|   ├── Dockerfile
 │   └── README.md
 ├── infrastructure/   # Terraform IaC for AWS resources
 │   ├── providers.tf
