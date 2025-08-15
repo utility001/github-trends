@@ -1,0 +1,9 @@
+.venv
+*/logs
+*/plugins
+*/.env
+*/.terraform*
+*.ipynb
+*__pycache__/
+*.pyc
+*/Screenshots
